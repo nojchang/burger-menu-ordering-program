@@ -57,24 +57,57 @@ Burger Menu for Student and Staff:
 5. Protein Burger - Cost: $5.95
 6. Exit Menu
 ==========================================
+
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: 1
+
 How many burger would you like? Enter your quantity: 1
+
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: 2
+
 How many burger would you like? Enter your quantity: 2
+
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: h
+
 Invalid input! Please enter a number between 1 and 5, or 6 to finish your order.
 3
 How many burger would you like? Enter your quantity: l
+
 Invalid input! Please enter a positive whole number for the quantity.
 1
+
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: 6
+
 Thank you for coming today. Have a nice day!
+
 Are you a student? (Enter S or s for student) or staff (Enter any other key for staff): s
+
 Here is your bill with the order details:
+
 Item: Double Cheese Burger - Quantity: 1 - Cost: $5.25
+
 Item: Bacon Cheese - Quantity: 2 - Cost: $11.50
+
 Item: Mushroom Swiss - Quantity: 1 - Cost: $5.95
+
+Total before tax: $22.70
+
+Tax amount: $0.00
+
+Total price after tax: $22.70
+
+Bill saved to 'bill.txt'
+
+
+
+## bill.txt
+Here is your bill with the order details:
+
+Item: Double Cheese Burger - Quantity: 1 - Cost: $5.25
+
+Item: Bacon Cheese - Quantity: 2 - Cost: $11.50
+
+Item: Mushroom Swiss - Quantity: 1 - Cost: $5.95
+
 Total before tax: $22.70
 Tax amount: $0.00
 Total price after tax: $22.70
-Bill saved to 'bill.txt'
