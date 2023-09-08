@@ -3,7 +3,7 @@ This is menu-driven program for ordering burgers. It allows users to select burg
 
 ## Program Overview
 
-The program consists of two main classes: `Order` and `OrderBurger`, and an interface `OrderInterface`. Here's a brief overview of each class and their responsibilities:
+The program consists of two main classes: abstract class `Order` and `OrderBurger`, and an interface `OrderInterface`. Here's a brief overview of each class and their responsibilities:
 
 ### `Order` (Abstract Class)
 - Serves as an abstract class providing a blueprint for different types of orders.
