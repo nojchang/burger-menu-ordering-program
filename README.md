@@ -18,6 +18,10 @@ The program consists of two main classes: `Order` and `OrderBurger`, and an inte
 - Outlines methods that must be implemented by classes like `Order` and `OrderBurger`.
 - Defines a constant for tax calculation and declares methods for displaying menus, getting inputs, calculating costs, printing bills, and saving bills to files.
 
+## UML Diagram
+![menu drawio](https://github.com/nojchang/burger-menu-ordering-program/assets/69415781/1b6dff69-61be-4685-9524-aab34e4a3698)
+
+
 ## Instructions for Usage
 
 1. Run the `Driver` class (`menuDrivenProgram.Driver`) as the entry point of the program.
@@ -46,7 +50,7 @@ The program consists of two main classes: `Order` and `OrderBurger`, and an inte
 
 Enjoy your burger ordering experience!
 
-For example: 
+```For example: 
 ==========================================
 Burger Menu for Student and Staff:
 --------------------------
@@ -59,55 +63,33 @@ Burger Menu for Student and Staff:
 ==========================================
 
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: 1
-
 How many burger would you like? Enter your quantity: 1
-
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: 2
-
 How many burger would you like? Enter your quantity: 2
-
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: h
-
 Invalid input! Please enter a number between 1 and 5, or 6 to finish your order.
 3
 How many burger would you like? Enter your quantity: l
-
 Invalid input! Please enter a positive whole number for the quantity.
 1
-
 Which burger do you want? Enter the option number (1-5), enter 6 when you are finish with order: 6
-
 Thank you for coming today. Have a nice day!
-
 Are you a student? (Enter S or s for student) or staff (Enter any other key for staff): s
-
 Here is your bill with the order details:
-
 Item: Double Cheese Burger - Quantity: 1 - Cost: $5.25
-
 Item: Bacon Cheese - Quantity: 2 - Cost: $11.50
-
 Item: Mushroom Swiss - Quantity: 1 - Cost: $5.95
-
 Total before tax: $22.70
-
 Tax amount: $0.00
-
 Total price after tax: $22.70
-
 Bill saved to 'bill.txt'
-
-
 
 ## bill.txt
 Here is your bill with the order details:
-
 Item: Double Cheese Burger - Quantity: 1 - Cost: $5.25
-
 Item: Bacon Cheese - Quantity: 2 - Cost: $11.50
-
 Item: Mushroom Swiss - Quantity: 1 - Cost: $5.95
-
 Total before tax: $22.70
 Tax amount: $0.00
 Total price after tax: $22.70
+```
