@@ -50,7 +50,8 @@ The program consists of two main classes: `Order` and `OrderBurger`, and an inte
 
 Enjoy your burger ordering experience!
 
-```For example: 
+## For Example:
+``` 
 ==========================================
 Burger Menu for Student and Staff:
 --------------------------
